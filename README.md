@@ -1,3 +1,5 @@
+Effects after plaing arround Apache Kafka. Conent of the repository should be placed inside kafka directory
+
 1. To run zookeeper 
    .\bin\windows\zookeeper-server-start.bat config/zookeeper.properties
 2. To run kafka server
@@ -18,4 +20,8 @@
 
 7. Create topic with  replication    
     .\bin\windows\kafka-topics.bat --create --topic replication_topic --zookeeper localhost:2181 --replication-factor 3 --partitions 1
+
+
+8. Display information about current topics 
+    .\bin\windows\kafka-topics.bat --describe --topic replication_topic --zookeeper localhost:218
 

@@ -1,0 +1,8 @@
+D:\kafka\kafka_2.11-0.11.0.0\playground\KafkaPlayGround.Producer\bin\Debug\netcoreapp1.1\KafkaPlayGround.Producer.deps.json
+D:\kafka\kafka_2.11-0.11.0.0\playground\KafkaPlayGround.Producer\bin\Debug\netcoreapp1.1\KafkaPlayGround.Producer.runtimeconfig.json
+D:\kafka\kafka_2.11-0.11.0.0\playground\KafkaPlayGround.Producer\bin\Debug\netcoreapp1.1\KafkaPlayGround.Producer.runtimeconfig.dev.json
+D:\kafka\kafka_2.11-0.11.0.0\playground\KafkaPlayGround.Producer\bin\Debug\netcoreapp1.1\KafkaPlayGround.Producer.dll
+D:\kafka\kafka_2.11-0.11.0.0\playground\KafkaPlayGround.Producer\bin\Debug\netcoreapp1.1\KafkaPlayGround.Producer.pdb
+D:\kafka\kafka_2.11-0.11.0.0\playground\KafkaPlayGround.Producer\obj\Debug\netcoreapp1.1\KafkaPlayGround.Producer.AssemblyInfo.cs
+D:\kafka\kafka_2.11-0.11.0.0\playground\KafkaPlayGround.Producer\obj\Debug\netcoreapp1.1\KafkaPlayGround.Producer.dll
+D:\kafka\kafka_2.11-0.11.0.0\playground\KafkaPlayGround.Producer\obj\Debug\netcoreapp1.1\KafkaPlayGround.Producer.pdb
