@@ -1,0 +1,9 @@
+D:\kafka\kafka_2.11-0.11.0.0\playground\KafkaPlayGround.Consumer\bin\Debug\netcoreapp1.1\KafkaPlayGround.Consumer.deps.json
+D:\kafka\kafka_2.11-0.11.0.0\playground\KafkaPlayGround.Consumer\bin\Debug\netcoreapp1.1\KafkaPlayGround.Consumer.runtimeconfig.json
+D:\kafka\kafka_2.11-0.11.0.0\playground\KafkaPlayGround.Consumer\bin\Debug\netcoreapp1.1\KafkaPlayGround.Consumer.runtimeconfig.dev.json
+D:\kafka\kafka_2.11-0.11.0.0\playground\KafkaPlayGround.Consumer\bin\Debug\netcoreapp1.1\KafkaPlayGround.Consumer.dll
+D:\kafka\kafka_2.11-0.11.0.0\playground\KafkaPlayGround.Consumer\obj\Debug\netcoreapp1.1\KafkaPlayGround.Consumer.csprojResolveAssemblyReference.cache
+D:\kafka\kafka_2.11-0.11.0.0\playground\KafkaPlayGround.Consumer\obj\Debug\netcoreapp1.1\KafkaPlayGround.Consumer.AssemblyInfo.cs
+D:\kafka\kafka_2.11-0.11.0.0\playground\KafkaPlayGround.Consumer\bin\Debug\netcoreapp1.1\KafkaPlayGround.Consumer.pdb
+D:\kafka\kafka_2.11-0.11.0.0\playground\KafkaPlayGround.Consumer\obj\Debug\netcoreapp1.1\KafkaPlayGround.Consumer.dll
+D:\kafka\kafka_2.11-0.11.0.0\playground\KafkaPlayGround.Consumer\obj\Debug\netcoreapp1.1\KafkaPlayGround.Consumer.pdb

@@ -23,8 +23,9 @@ Effects after plaing arround Apache Kafka. Conent of the repository should be pl
 
 
 8. Display information about current topics 
-    .\bin\windows\kafka-topics.bat --describe --topic replication_topic --zookeeper localhost:218
+    .\bin\windows\kafka-topics.bat --describe --topic replication_topic --zookeeper localhost:2181
 
 9. To run Producer 
     dotnet run -- localhost:9092 test_topic
 
+10. To generate messages : kafka-producer-perf-test,.bat
